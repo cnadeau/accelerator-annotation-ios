@@ -1,4 +1,4 @@
-platform :ios, '10.0'
+platform :ios, '12.0'
 
 def shared_pods
   pod 'LHToolbar', '= 1.3.0-beta'
