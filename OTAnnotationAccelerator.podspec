@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
 
   s.static_framework = true
   s.dependency 'LHToolbar', '1.3.0-beta'
-  s.dependency 'OTAcceleratorCore'
+  s.dependency 'OTAcceleratorCore', '=1.1.11'
 end
